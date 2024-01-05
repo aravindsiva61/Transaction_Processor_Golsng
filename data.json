@@ -1,0 +1,43 @@
+[
+    {
+      "timestamp": 1626014400,
+      "value": "Record 1"
+    },
+    {
+      "timestamp": 1626100800,
+      "value": "Record 2"
+    },
+    {
+      "timestamp": 1626187200,
+      "value": "Record 3"
+    },
+    {
+      "timestamp": 1626273600,
+      "value": "Record 4"
+    },
+    {
+      "timestamp": 1626360000,
+      "value": "Record 5"
+    },
+    {
+      "timestamp": 1626446400,
+      "value": "Record 6"
+    },
+    {
+      "timestamp": 1626532800,
+      "value": "Record 7"
+    },
+    {
+      "timestamp": 1626619200,
+      "value": "Record 8"
+    },
+    {
+      "timestamp": 1626705600,
+      "value": "Record 9"
+    },
+    {
+      "timestamp": 1626792000,
+      "value": "Record 10"
+    }
+  ]
+  
